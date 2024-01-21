@@ -1,1 +1,1 @@
-Simple calendsr on JavaScript
+Simple calendar on JavaScript
